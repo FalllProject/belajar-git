@@ -1,3 +1,4 @@
 Ini merupakan repository pertama saya
 mengirim commit dari repository ya ges ya
 konflik kuy
+
